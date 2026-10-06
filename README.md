@@ -17,7 +17,6 @@ pytest -v --tb=line --language=en -m need_review
 \`\`\`
 
 ## Требования
-
 - Python 3.8+
 - pytest
 - selenium
